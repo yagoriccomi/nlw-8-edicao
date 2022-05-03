@@ -5,3 +5,7 @@
 .buttons {
   @apply flex gap-2;
 }
+
+body{
+  @apply bg-[#09090A] text-zinc-100
+}
